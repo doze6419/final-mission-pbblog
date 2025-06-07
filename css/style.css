@@ -402,9 +402,10 @@ time {
   }
 }
 
-.pagesitem .pagesitem {
+.pagesitem .currpage {
   color: #0027D5;
 }
+
 
 /* footer表尾 */
 footer {
